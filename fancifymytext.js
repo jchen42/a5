@@ -1,5 +1,5 @@
 function bigger() {
-    alert("Different Front");
+    alert("Fancity Program");
     document.getElementById("Textbox").style.fontSize = "48pt";
 }
 
